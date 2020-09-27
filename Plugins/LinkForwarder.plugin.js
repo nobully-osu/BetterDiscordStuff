@@ -1,8 +1,8 @@
 /**
  * @name LinkForwarder
  * @authorId 153995267455057920
- * @website 
- * @source 
+ * @website https://github.com/randomman254/BetterDiscordStuff
+ * @source https://github.com/randomman254/BetterDiscordStuff/blob/master/Plugins/LinkForwarder.plugin.js
  */
 
 module.exports = class LinkForwarder {
